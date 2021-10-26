@@ -1,0 +1,13 @@
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\Laborator3.exe.config
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\Laborator3.exe
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\Laborator3.pdb
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\OpenTK.dll
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\OpenTK.GLControl.dll
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\OpenTK.pdb
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\OpenTK.xml
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\OpenTK.GLControl.pdb
+D:\Teme\EGC\Laborator3\Laborator3\bin\Debug\OpenTK.GLControl.xml
+D:\Teme\EGC\Laborator3\Laborator3\obj\Debug\Laborator3.csproj.AssemblyReference.cache
+D:\Teme\EGC\Laborator3\Laborator3\obj\Debug\Laborator3.csproj.CoreCompileInputs.cache
+D:\Teme\EGC\Laborator3\Laborator3\obj\Debug\Laborator3.exe
+D:\Teme\EGC\Laborator3\Laborator3\obj\Debug\Laborator3.pdb
